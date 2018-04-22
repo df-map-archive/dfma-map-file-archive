@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FileZilla3 version="3.32.0" platform="windows">
+	<Queue>
+		<Server>
+			<File>
+				<LocalFile>dfma-map-file-archive\maps\2009-12\ram_-Linesmiths-Veleshtân-18-0.fdf-map</LocalFile>
+				<RemoteFile>ram_-Linesmiths-Veleshtân-18-0.fdf-map</RemoteFile>
+				<RemotePath>1 0 4 maps 7 2009-12</RemotePath>
+				<Download>1</Download>
+				<Size>45622</Size>
+				<DataType>1</DataType>
+			</File>
+			<File>
+				<LocalFile>dfma-map-file-archive\maps\2010-02\djohaal-Boltedbowl-Cópia de region2-209-35536.fdf-map</LocalFile>
+				<RemoteFile>djohaal-Boltedbowl-Cópia de region2-209-35536.fdf-map</RemoteFile>
+				<RemotePath>1 0 4 maps 7 2010-02</RemotePath>
+				<Download>1</Download>
+				<Size>213270</Size>
+				<DataType>1</DataType>
+			</File>
+			<File>
+				<LocalFile>dfma-map-file-archive\maps\2009-12\ram_-Linesmiths-Veleshtân-17-9.fdf-map</LocalFile>
+				<RemoteFile>ram_-Linesmiths-Veleshtân-17-9.fdf-map</RemoteFile>
+				<RemotePath>1 0 4 maps 7 2009-12</RemotePath>
+				<Download>1</Download>
+				<Size>43480</Size>
+				<DataType>1</DataType>
+			</File>
+			<File>
+				<LocalFile>dfma-map-file-archive\maps\2014-10\wieseltrupp-Cattentinöth-254.fdf-map</LocalFile>
+				<RemoteFile>wieseltrupp-Cattentinöth-254.fdf-map</RemoteFile>
+				<RemotePath>1 0 4 maps 7 2014-10</RemotePath>
+				<Download>1</Download>
+				<Size>834438</Size>
+				<DataType>1</DataType>
+			</File>
+		</Server>
+	</Queue>
+</FileZilla3>
