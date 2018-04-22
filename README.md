@@ -4,7 +4,7 @@ The Dwarf Fortress Map Archive is a repository and online viewer for player crea
 
 ## Map File Archive
 
-This map file archive is an archive of dwarf fortress maps (FDFMAP files) and associated data (Description, ).
+This map file archive is an archive of dwarf fortress maps (*.fdf-map files*) and any  associated descriptive data, such as author, submitter, fortress name, map year, map season, submission date, points of interest, and description.
 
 ## Roadmap
 
@@ -16,7 +16,7 @@ This map file archive is an archive of dwarf fortress maps (FDFMAP files) and as
 
 ### 2018 April
 
-- Download and preserve *.fdfmap* files from https://mkv25.net/dfma/ in this repo
+- Download and preserve *.fdf-map* files from https://mkv25.net/dfma/ in this repo
 
 ### 2018 June
 - Download and preserve MySQL data attached to *fdf-maps*
