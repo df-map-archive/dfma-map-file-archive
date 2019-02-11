@@ -24,6 +24,10 @@ This map file archive is an archive of dwarf fortress maps (*.fdf-map files*) an
 - Export and preserve map data (Maps, Map Series, Points of Interest, and Comments) as JSON
 - Provide PHP and NodeJS scripts to automate the JSON export process
 
+### 2019 February
+- Archiving stalled due to file size restrictions on repositories
+- Looking for solutions; may just pay the cost
+
 ### Footnote
 
 The map archive has slowed in its use, but is an excellent resource for early Dwarf Fortress gameplay, and has allowed many great stories to be shared over the years. I hope that by providing this archive of the website that we can build a new site that will continue to support these stories into the future.
